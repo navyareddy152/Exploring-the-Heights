@@ -1,4 +1,5 @@
-# 🏔️ Exploring the Heights: Visualizing Trends in Himalayan Mountaineering Expeditions (2020–2024)
+# 🏔️ Exploring the Heights: 
+Visualizing Trends in Himalayan Mountaineering Expeditions (2020–2024)
 
 This project explores trends, risks, and patterns in Himalayan mountaineering expeditions using data from the **Himalayan Database**. Through data cleaning, exploratory analysis, and meaningful visualizations, we examine how seasonality, oxygen use, team structure, and route selection relate to expedition outcomes.
 
