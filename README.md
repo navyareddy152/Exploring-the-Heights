@@ -7,7 +7,7 @@ This project explores trends, risks, and patterns in Himalayan mountaineering ex
 > 🧠 Authors: Praveen Kumar Pappala, Sai Navya Reddy Busireddy, Gowtham Theeda  
 > 📊 Tools Used: Python, pandas, seaborn, matplotlib, plotly, folium
 
----
+
 
 ## 📌 Project Purpose
 
@@ -19,7 +19,7 @@ This project investigates the following research questions:
 
 We emphasize **descriptive analysis**, focusing on visual patterns.
 
----
+
 
 ## 📊 Dataset Information
 
@@ -30,7 +30,7 @@ We emphasize **descriptive analysis**, focusing on visual patterns.
 
 These datasets are open-access and anonymized for public use. No IRB approval was required.
 
----
+
 
 ## 🔍 Key Features and Visualizations
 
@@ -46,4 +46,4 @@ These datasets are open-access and anonymized for public use. No IRB approval wa
 
 All visualizations are produced in Python using `pandas`, `seaborn`, `matplotlib`, and `folium`.
 
----
+
