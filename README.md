@@ -23,21 +23,6 @@ We emphasize **descriptive analysis**, focusing on visual patterns.
 
 ---
 
-## 📁 Repository Structure
-
-📦 Exploring-the-Heights/
-├── finalcodeFDSproject.ipynb # Full project notebook
-├── presentation.pdf # Final presentation (Gamma-enhanced)
-├── Exploring_the_Heights_Final_Report.docx # Final written report
-├── /figures # Visualizations used in report/presentation
-├── /data # Cleaned CSVs (merged if allowed)
-├── README.md # This file
-
-
-> 🔐 Note: Raw data files are public and sourced from TidyTuesday.
-
----
-
 ## 📊 Dataset Information
 
 - **Source**: [The Himalayan Database](https://www.himalayandatabase.com/) via [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
@@ -64,10 +49,3 @@ These datasets are open-access and anonymized for public use. No IRB approval wa
 All visualizations are produced in Python using `pandas`, `seaborn`, `matplotlib`, and `folium`.
 
 ---
-
-## 🛠️ How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Exploring-the-Heights.git
-   cd Exploring-the-Heights
